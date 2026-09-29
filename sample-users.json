@@ -1,0 +1,7 @@
+[
+  { "name": "Ahmed Ali", "age": 25, "city": "Cairo" },
+  { "name": "Sara Mohamed", "age": 28, "city": "Alexandria" },
+  { "name": "Omar Hassan", "age": 31, "city": "Giza" },
+  { "name": "Mona Khaled", "age": 22, "city": "Mansoura" },
+  { "name": "Youssef Adel", "age": 35, "city": "Aswan" }
+]
